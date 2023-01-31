@@ -14,8 +14,3 @@ Programming Languages: Python, Rust, SQL, JavaScript, PHP
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alirezadamash)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitte&logoColor=white)](https://twitter.com/alirezamns1991)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:alirezadamash@gmail.com)
-
-### 🤝🏻 Contact Me
-<p align="left">
-<a href="mailto:alirezadamash@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
-</p>
