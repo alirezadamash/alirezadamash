@@ -15,8 +15,6 @@ Programming Languages: Python, Rust, SQL, JavaScript, PHP
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitte&logoColor=white)](https://twitter.com/alirezamns1991) 
 
 ### 🤝🏻 Contact Me
-<p align="center">
-<a href="https://www.linkedin.com/in/alirezamansouri"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" /></a>
+<p align="right">
 <a href="mailto:alirezadamash@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
-<a href="https://twitter.com/alirezamns1991"><img alt="Twitter" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/twitter.svg" title="Twitter" width="100" height="30" /></a>
 </p>
