@@ -6,7 +6,7 @@ Machine Learning, Optimization, Deep Learning, Signal Processing, Image Processi
 
 ## 💻 Knowledge and Skills
 Mathematics : Calculus, Algebra, Analysis <br>
-Algorithms : <br>
+Algorithms : Stochastic Gradient Descent, Stochastic Conjugate Gradient <br>
 Programming Languages: Python, Rust, SQL, JavaScript, PHP
 
 ## 🌐 Social Media:
