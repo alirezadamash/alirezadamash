@@ -5,7 +5,7 @@ I am an ambitious researcher who posses a noteworthy academic background and a k
 Machine Learning, Optimization, Signal Processing, Image Processing, Reinforcement Learning
 
 ## 💻 Knowledge and Skills
-Mathematics : Calculus, Algebra, <br>
+Mathematics : Calculus, Algebra, Analysis <br>
 Algorithms : <br>
 Programming Languages: Python, Rust, SQL, JavaScript, PHP
 
