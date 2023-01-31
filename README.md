@@ -3,7 +3,6 @@ I am an ambitious researcher who posses a noteworthy academic background and a k
 
 ## 💻 Research Interests
 Machine Learning, Optimization, Signal Processing, Image Processing, Reinforcement Learning
-<hr\>
 
 ## 💻 Knowledge and Skills
 <hr\>
