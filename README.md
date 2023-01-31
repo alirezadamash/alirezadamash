@@ -5,7 +5,9 @@ I am an ambitious researcher who posses a noteworthy academic background and a k
 Machine Learning, Optimization, Signal Processing, Image Processing, Reinforcement Learning
 
 ## 💻 Knowledge and Skills
-<hr\>
+Mathematics : Calculus, Algebra, 
+Algorithms :
+Programming Languages: Python, Rust, SQL, JavaScript, PHP
 
 ## 🌐 Social Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alirezamansouri/) 
