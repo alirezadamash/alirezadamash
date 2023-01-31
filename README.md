@@ -5,13 +5,16 @@ I am an ambitious researcher who posses a noteworthy academic background and a k
 Machine Learning, Optimization, Signal Processing, Image Processing, Reinforcement Learning
 
 ## 💻 Knowledge and Skills
-Mathematics : Calculus, Algebra, 
-Algorithms :
+Mathematics : Calculus, Algebra, <br>
+Algorithms : <br>
 Programming Languages: Python, Rust, SQL, JavaScript, PHP
 
 ## 🌐 Social Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alirezamansouri/) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alirezadamash) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alirezadamash)
+[![Twitter](https://img.shields.io/badge/Medium-12100E?logo=twitte&logoColor=white)](https://twitter.com/alirezamns1991) 
+https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+
 
 ### 🤝🏻 Contact Me
 <p align="center">
