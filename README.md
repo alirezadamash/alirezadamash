@@ -8,10 +8,6 @@ I am an ambitious researcher who posses a noteworthy academic background and a k
 ## 💻 Tech Stack
 
 
-## 📊 GitHub Streak:
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alirezadamash&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
-
 <!-- <hr \>
 
 ### 🤝🏻 Contact Me
