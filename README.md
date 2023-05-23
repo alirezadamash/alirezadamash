@@ -6,7 +6,7 @@ Machine Learning, Optimization for ML, Reinforcement Learning, Generalization in
 ## 💻 Knowledge and Skills
 Mathematics : Calculus, Algebra, Analysis <br>
 Algorithms : Stochastic Gradient Descent, Stochastic Conjugate Gradient <br>
-Programming Languages: Python, Rust, SQL, JavaScript, PHP
+Programming Languages: Python, PHP, SQL, JavaScript, Matlab 
 
 ## 🌐 Social Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alirezamansouri/) 
