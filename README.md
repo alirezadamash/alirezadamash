@@ -1,7 +1,7 @@
 ## Hi! I'm Alireza Mansouri.
 
 ## 💻 Research Interests
-Machine Learning, Optimization for ML, Reinforcement Learning, Generalization in ML, Deep Learning
+Machine Learning, Optimization, Generalization, Signal Processing, Robotics
 
 ## 💻 Knowledge and Skills
 Mathematics : Calculus, Algebra, Analysis <br>
