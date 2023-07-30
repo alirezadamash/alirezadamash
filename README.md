@@ -1,7 +1,7 @@
 ## Hi! I'm Alireza Mansouri.
 
 ## 💻 Research Interests
-Machine Learning, Optimization, Generalization, Signal Processing, Robotics
+Machine Learning, Optimization, Generalization, Liquid Neural Networks
 
 ## 💻 Knowledge and Skills
 Mathematics : Calculus, Algebra, Analysis <br>
