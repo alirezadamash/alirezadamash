@@ -1,7 +1,7 @@
 ## Hi! I'm Alireza Mansouri.
 
 ## 💻 Research Interests
-Machine Learning, Optimization, Generalization, Liquid Neural Networks
+Machine Learning Foundation, Optimization, Generalization, Liquid Neural Networks
 
 ## 💻 Skills
 Programming Languages: Python, Rust, PHP, SQL, JavaScript, Matlab, Simulink
