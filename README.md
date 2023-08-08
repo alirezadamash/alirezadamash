@@ -3,10 +3,8 @@
 ## 💻 Research Interests
 Machine Learning, Optimization, Generalization, Liquid Neural Networks
 
-## 💻 Knowledge and Skills
-Mathematics : Calculus, Algebra, Analysis <br>
-Algorithms : Stochastic Gradient Descent, Stochastic Conjugate Gradient <br>
-Programming Languages: Python, PHP, SQL, JavaScript, Matlab 
+## 💻 Skills
+Programming Languages: Python, Rust, PHP, SQL, JavaScript, Matlab, Simulink
 
 ## 🌐 Social Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alirezamansouri/) 
