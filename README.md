@@ -4,7 +4,7 @@
 ML Foundation, Optimization, Generalization, Liquid Neural Networks
 
 ## 💻 Skills
-Programming Languages: Python, Rust, PHP, SQL, JavaScript, Matlab, Simulink
+Programming Languages: Python, Rust, PHP, JavaScript, SQL
 
 ## 🌐 Social Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alirezamansouri/) 
