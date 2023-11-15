@@ -1,10 +1,10 @@
 ## Hi! I'm Alireza Mansouri.
 
 ## 💻 Research Interests
-ML Foundation, Optimization, Generalization, Liquid Neural Networks
+Optimization for ML and DL
 
 ## 💻 Programming Languages
-Python, Rust, PHP, JavaScript, SQL
+Python
 
 ## 🌐 Social Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alirezamansouri/) 
