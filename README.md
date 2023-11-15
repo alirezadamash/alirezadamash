@@ -1,6 +1,6 @@
-# Science: Machine Learning, Deep Learning, Optimization
+# Machine Learning | Deep Learning | Optimization
 
-## Python|PyTorch|Tensorflow
+# Python | PyTorch | Tensorflow
 
 ## Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alirezamansouri/) 
