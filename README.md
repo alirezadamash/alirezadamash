@@ -1,4 +1,4 @@
-## Hi! I'm Alireza Mansouri.
+## Alireza Mansouri.
 
 ## 💻 Research Interests
 Optimization for ML and DL
