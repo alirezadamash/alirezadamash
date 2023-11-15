@@ -1,9 +1,9 @@
 ## Alireza Mansouri.
 
-## 💻 Research Interests
+## 💻 Research
 Optimization for ML and DL
 
-## 💻 Programming Languages
+## 💻 Programming
 Python
 
 ## 🌐 Social Media:
