@@ -1,5 +1,3 @@
-## Alireza Mansouri.
-
 ## 💻 Research
 Optimization for ML and DL
 
