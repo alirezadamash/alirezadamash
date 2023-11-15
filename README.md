@@ -1,8 +1,7 @@
-## 💻 Research
-Optimization for ML and DL
+## 💻 Optimization, ML , DL
 
-## 💻 Programming
-Python
+## 💻 Python
+PyTorch, Tensorflow
 
 ## 🌐 Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alirezamansouri/) 
