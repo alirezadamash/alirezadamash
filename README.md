@@ -1,3 +1,3 @@
 # Machine Learning | Deep Learning | Optimization
 
-# Python | PyTorch | Tensorflow
+# Python | PyTorch
