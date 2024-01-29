@@ -1,4 +1,4 @@
-# Machine Learning | Deep Learning | Optimization
+# Optimization | Machine Learning | Deep Learning
 
 # Python | PyTorch
 
