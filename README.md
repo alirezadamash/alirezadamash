@@ -1,4 +1,4 @@
-# Optimization | Machine Learning | Deep Learning
+# Software Architecture | Optimization | Machine Learning | Deep Learning
 
 # Python | PyTorch
 
