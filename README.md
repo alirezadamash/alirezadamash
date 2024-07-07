@@ -1,4 +1,4 @@
-# Software Architecture | Optimization | ML/DL
+# Optimization | ML/DL
 
 # Python | PyTorch
 
